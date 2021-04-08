@@ -2,7 +2,6 @@
 
  - I'm just trying something new, don't worry. 
 ---   
-- 🔭 I’m currently on an internship
-- 🌱 I’m currently learning about SEO
+- 🌱 I’m currently learning about SEO, designer and front-end
 - 💬 Ask me about tech, games and geek culture
-- ⚡ Fun fact: ?
+- ⚡ Fun fact: I'm afraid of spiders
