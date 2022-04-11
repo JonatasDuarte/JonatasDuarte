@@ -6,8 +6,10 @@
 Formado em Técnico em Informática pelo IFPB. Graduando em Engenharia de Computação no IFPB. Nível avançado em inglês, certificado B2 por Cambridge. 
 
 Posssuo experiências com linguagens de programação, foco em desenvolvimento, UX/UI Designer, banco de dados e análises, ferramentas Analytics e informática no geral.
+
+Atualmente, trabalho com banco de dados e desenvolvimento voltado para back-end, enquannto busco me aprimorar.
  </p>
-                    <p align="center">Atualmente, trabalho com banco de dados e desenvolvimento voltado para back-end, enquannto busco me aprimorar.
+                    <p align="center">
                     Qualquer dúvida, sinta-se à vontade para falar comigo :D </p>
 
 <br>
@@ -15,13 +17,13 @@ Posssuo experiências com linguagens de programação, foco em desenvolvimento, 
 <h2 align="center"> Principais tecnologias: </h2>
 
 <div align="center">
-  <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
+  <img width="45px" src="https://www.agenciacrow.com.br/themes/agencia-crow/assets/images/tech/github.png">
   <img width="44px" src="https://i.imgur.com/BgjSjn9.png">
   <img width="45px" src="https://i.imgur.com/o4FSeZ6.png">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="45px" src="https://www.clipartmax.com/png/middle/243-2432711_azure-sql-database-icon.png">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img width="45px" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png?w=640">
+  <img width="45px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  </div>
  
