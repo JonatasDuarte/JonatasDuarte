@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center"> Opa, e aí!👋 </h1>
+<h1 align="center"> Opa, e aí!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <p align="justify">Me chamo Jonatas Duarte, tenho 20 anos, trabalho com desenvolvimento WEB e banco de dados e sou apaixonado por tecnologia. 
 
@@ -17,13 +16,12 @@ Posssuo experiências com linguagens de programação, foco em desenvolvimento, 
 
 <div align="center">
   <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
-  <img width="45px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">
   <img width="44px" src="https://i.imgur.com/BgjSjn9.png">
   <img width="45px" src="https://i.imgur.com/o4FSeZ6.png">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img width="45px" src="https://www.clipartmax.com/png/middle/243-2432711_azure-sql-database-icon.png">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  </div>
  
@@ -41,10 +39,7 @@ Posssuo experiências com linguagens de programação, foco em desenvolvimento, 
 
 <h2 align="center">Contatos:</h2>
 
-:page_facing_up:
 <p align="center">
-<a target="_blank" href="https://drive.google.com/file/d/157_zV7B-Q5RTakugV2V9mbOTv9TGg4mD/view?usp=sharing">
-<img src=":page_facing_up:" alt="Curriculo Badge">
 <a target="_blank" href="www.linkedin.com/in/jonatas-
 duarte/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
